@@ -1,2 +1,2 @@
 ## Imager
-An **Image** manipulation program using the **microservices**  architecture
+**Image** manipulation tool with **microservices**  architecture
